@@ -43,6 +43,7 @@ This project builds a Convolutional Neural Network (CNN) to classify chest X-ray
 ---
 
 ## 📊 Model Summary
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4e45acb4-1a7c-4e08-ad8a-af5a59155f45" />
 
 * Input: (150, 150, 1)
 * Output: Binary classification
